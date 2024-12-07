@@ -20,13 +20,10 @@ The input of the second task contains:
     A tolerance - `ε`  
     
 
-The input of the third task contains:
-
-    An initial guess - `x0`
-    
-    A learning rate - `α`
-    
-    A number of iterations - `N`
+The input of the third task contains:  
+    An initial guess - `x0`  
+    A learning rate - `α`  
+    A number of iterations - `N`  
     
 
 ## Tests Statements
