@@ -8,16 +8,13 @@
 - **C++**
 
 ## Input Format
-The input of the first task contains:
-
-    A begining of the interval - `a`
-    
-    A end of the interval - `b`
-    
-    A tolerance - `ε`
+The input of the first task contains:  
+    A begining of the interval - `a`  
+    A end of the interval - `b`  
+    A tolerance - `ε`  
     
 
-The input of the second task contains:
+The input of the second task contains:  
     A begining of the interval - `a`  
     A end of the interval - `b`  
     A tolerance - `ε`  
