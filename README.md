@@ -8,7 +8,7 @@
 - **C++**
 
 ## Input Format
-The input of the first task contains:  
+**The input of the first task contains:**  
     A begining of the interval - `a`  
     A end of the interval - `b`  
     A tolerance - `ε`  
