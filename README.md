@@ -1,4 +1,4 @@
-# Programming Task 4 |  Bisection Method for Root-Finding | Golden Section Method for Unimodal Function Optimization | Gradient Ascent Method for Maximizing a Function 
+# Programming Task 4 |  Bisection Method | Golden Section Method | Gradient Ascent Method
 **Introduction to Optimization - Fall 2024**
 
 ## Team
