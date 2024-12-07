@@ -9,19 +9,31 @@
 
 ## Input Format
 The input of the first task contains:
+
     A begining of the interval - `a`
+    
     A end of the interval - `b`
+    
     A tolerance - `ε`
+    
 
 The input of the second task contains:
+
     A begining of the interval - `a`
+    
     A end of the interval - `b`
+    
     A tolerance - `ε`
+    
 
 The input of the third task contains:
+
     An initial guess - `x0`
+    
     A learning rate - `α`
+    
     A number of iterations - `N`
+    
 
 ## Tests Statements
 Task 1:
