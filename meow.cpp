@@ -70,24 +70,24 @@ double gradientAscent(double x0, double alpha, int iterations) {
 
 int main() {
     // Bisection Method
-    cout << "Task 1: Bisection Method" << endl;
     double a, b, epsilon;
     cin >> a >> b >> epsilon;
+    cout << "Task 1: Bisection Method" << endl;
     double root = bisection(a, b, epsilon);
     cout << "Approximate root: " << setprecision(10) << root << endl;
 
     // Golden Section Method
-    cout << "\nTask 2: Golden Section Method" << endl;
     cin >> a >> b >> epsilon;
+    cout << "\nTask 2: Golden Section Method" << endl;
     double xmin = goldenSection(a, b, epsilon);
     cout << "Approximate xmin: " << setprecision(10) << xmin << endl;
     cout << "f(xmin): " << f2(xmin) << endl;
 
     // Gradient Ascent Method
-    cout << "\nTask 3: Gradient Ascent Method" << endl;
     double x0, alpha;
     int iterations;
     cin >> x0 >> alpha >> iterations;
+    cout << "\nTask 3: Gradient Ascent Method" << endl;
     double xmax = gradientAscent(x0, alpha, iterations);
     cout << "Approximate xmax: " << setprecision(10) << xmax << endl;
     cout << "f(xmax): " << f3(xmax) << endl;
